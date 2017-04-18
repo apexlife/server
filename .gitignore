@@ -62,5 +62,6 @@ typings/
 .sass-cache/
 *.css.map
 
-.gitignore
-config.rb
+/.sass-cache/
+/config.rb
+/.gitignore
